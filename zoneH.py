@@ -22,7 +22,7 @@ print('''
       [O.o]
       /)__)
      /-"--"-
-[mass zone-h subliter]
+[mass zone-h submiter]
 ''')
 notifierx = raw_input("defacer name : ")
 targetx = raw_input("site list (with https://): ")
